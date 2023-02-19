@@ -179,7 +179,7 @@ body {
 /* ============== Brac Section ===================== */
 #brac-section .row {
   background: #EFF5FF;
-  border-radius: 1.5rem; }
+  border-radius: 0rem; }
   #brac-section .row a {
     text-decoration: none; }
   #brac-section .row .btn-brac {
